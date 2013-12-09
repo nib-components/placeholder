@@ -1,0 +1,8 @@
+{
+  "name": "placeholder",
+  "version": "0.0.1",
+  "description": "A JavaScript polyfill for the HTML5 placeholder attribute.",
+  "scripts": [
+    "index.js"
+  ]
+}
